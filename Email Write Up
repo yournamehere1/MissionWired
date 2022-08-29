@@ -1,4 +1,5 @@
 ## THIS IS A SAMPLE EMAIL WRITE UP OF A SIMPLIFIED BREAKDOWN OF HOW I DID THE PROBLEM
+## TO VIEW PROPERLY CHANGE NO WRAP TO SOFT WRAP TO BE DISPLAYED AS PARAGRAPHS
 For this task I began by loading all the data into python and viewing a summary of the information listed and the column names. I began to identify in which data set I could find the information for question one and how each data set was connected to one another. I began by merging the email file with email subscription file because it included information relevant to how many people unsubscribed. Afterwards I merged that file with the constituents file using constituent id to ultimately tie that information back to each person.
 For question two, I began my loading in the people file I just made. In creating a new file that tracked the date of creation of these profiles, I also tracked how many times a date was shared across the dataset. Using a count method tracks the number of acquisitions that occur on a given day and gives better insight on when profiles are created.
--
+
